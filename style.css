@@ -102,7 +102,7 @@ text-align: center;
      font-size: 18px;
 
 
-}
+/* } 
 .remember-me{
 display: flex;
 align-items: center;
@@ -139,7 +139,7 @@ display: none;
 }
 .input-checkbox:checked + .label-checkbox::before{
     color: #a28080
-}
+} */
 .txt1{
     font-size: 15px;
     color: #a28080;
